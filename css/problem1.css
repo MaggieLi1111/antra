@@ -1,0 +1,12 @@
+*{
+    color:aliceblue;
+    background-color: rgb(43, 43, 72);
+}
+
+ul li {
+    list-style-type: none;
+    margin:10px;
+}
+ul li a {
+    text-decoration: none;  
+}
