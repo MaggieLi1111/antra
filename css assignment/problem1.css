@@ -1,11 +1,8 @@
 *{
-    color:aliceblue;
+    color:rgb(240, 248, 255);
     background-color: rgb(43, 43, 72);
 }
 
-.list-container {
-    display:inline;
-}
 
 ul li {
     list-style-type: none;
