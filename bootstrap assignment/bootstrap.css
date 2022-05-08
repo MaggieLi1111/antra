@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    
+}
+
+.login, .register {
+    width:30%;  
+    margin:30px;
+    border: 1px solid beige;
+    padding:20px;
+    background-color: rgb(36, 221, 221);
+}
